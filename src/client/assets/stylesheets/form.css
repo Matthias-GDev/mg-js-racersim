@@ -20,8 +20,17 @@ form li:hover {
     border: 1px solid rgb(109, 233, 23);
 }
 
-form li.selected {
-    border: 1px solid rgb(109, 233, 23);
+/*div .card .selected {
+    border: 3px solid rgb(109, 233, 23);
+}*/
+
+.selected {
+    border: 5px solid greenyellow !important;
+}
+
+.racerselected {
+     border: 5px solid purple !important;
+     
 }
 
 form li h3 {
